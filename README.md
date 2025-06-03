@@ -71,12 +71,9 @@ Whether you're a beginner or transitioning from a technical background, this gui
 
 **Goal**: Understand what GRC is, its importance, and key roles.
 
-* What is GRC? — Governance vs. Risk vs. Compliance
-* Roles in GRC: Analyst, Auditor, Risk Manager
+* What is GRC? — Governance vs. Risk vs. Compliance (https://youtu.be/mq_vSLHm4r0?si=qe-NOZlNxBmcINry)
+* Roles in GRC https://sprinto.com/blog/grc-team/)
 * Overview of frameworks (NIST, ISO, HIPAA, PCI-DSS)
-* [What is GRC? - Video Intro](https://youtu.be/mq_vSLHm4r0?si=qe-NOZlNxBmcINry)
-* [Roles in GRC - Article](https://sprinto.com/blog/grc-team/)
-
 
 ### Day 22–28: Policies, Standards, and Procedures
 
