@@ -80,6 +80,7 @@ Whether you're a beginner or transitioning from a technical background, this gui
 
 * [Writing effective security policies](https://youtu.be/wgzFoJ14iiI?si=vk2XQ9hIrsGfqyBJ)
 * [Difference between policy, standard, procedure, and guideline](https://policy.um6p.ma/knowledgebase/policy-standard-procedure-and-guideline/)
+* [Policy Checklist](https://wobbly-quit-c07.notion.site/Policy-Checklist-1b2356bf812d80f780a1e5bff34d44ca)
 * Templates: [SANS Policy Templates](https://www.sans.org/information-security-policy/)
 * Case Study: Acceptable Use Policy, Remote Access Policy
 
