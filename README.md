@@ -74,7 +74,8 @@ Whether you're a beginner or transitioning from a technical background, this gui
 * What is GRC? — Governance vs. Risk vs. Compliance
 * Roles in GRC: Analyst, Auditor, Risk Manager
 * Overview of frameworks (NIST, ISO, HIPAA, PCI-DSS)
-* [What is GRC? - Video Intro](https://www.youtube.com/watch?v=GEISsN0L7Lw)
+* [What is GRC? - Video Intro](https://youtu.be/mq_vSLHm4r0?si=qe-NOZlNxBmcINry)
+* [Roles in GRC - Article](https://sprinto.com/blog/grc-team/)
 
 
 ### Day 22–28: Policies, Standards, and Procedures
