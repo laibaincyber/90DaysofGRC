@@ -78,8 +78,8 @@ Whether you're a beginner or transitioning from a technical background, this gui
 
 **Goal**: Learn how to write and manage infosec policies.
 
-* Writing effective security policies
-* Difference between policy, standard, procedure, and guideline
+* [Writing effective security policies](https://youtu.be/wgzFoJ14iiI?si=vk2XQ9hIrsGfqyBJ)
+* [Difference between policy, standard, procedure, and guideline](https://policy.um6p.ma/knowledgebase/policy-standard-procedure-and-guideline/)
 * Templates: [SANS Policy Templates](https://www.sans.org/information-security-policy/)
 * Case Study: Acceptable Use Policy, Remote Access Policy
 
