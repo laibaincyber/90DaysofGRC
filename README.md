@@ -64,7 +64,6 @@ Whether you're a beginner or transitioning from a technical background, this gui
 **Goal**: Understand core security concepts, CIA triad, access control, and threat types.
 
 * [Professor Messer’s Security+ (SY0-701)](https://youtube.com/playlist?list=PLG49S3nxzAnm5WY6rBf2p6p-yYJUy3sB5)
-* [Pete Zerger Security+ Series](https://www.youtube.com/@pzerger/playlists)
 
 
 ### Day 15–21: Introduction to GRC
