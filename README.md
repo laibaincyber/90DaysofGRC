@@ -72,7 +72,7 @@ Whether you're a beginner or transitioning from a technical background, this gui
 
 * [What is GRC? — Governance vs. Risk vs. Compliance](https://youtu.be/mq_vSLHm4r0?si=qe-NOZlNxBmcINry)
 * [Roles in GRC ](https://sprinto.com/blog/grc-team/)
-* Overview of frameworks (NIST, ISO, HIPAA, PCI-DSS)
+* Overview of frameworks [NIST](https://youtu.be/_KXqDNVmpu8?si=AUsmv7rw-G3X7XaM), [ISO](https://youtu.be/jPA6gbsT2IQ?si=AweztWmPgXPjhvOi), [HIPAA](https://youtu.be/sNry7tMXlJw?si=JmUPc6-IBYl_oNom), [PCI-DSS](https://youtu.be/jcJpVEv16pk?si=AYLoNO3MB_Q_pIxj)
 
 ### Day 22–28: Policies, Standards, and Procedures
 
