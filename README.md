@@ -106,10 +106,11 @@ Whether you're a beginner or transitioning from a technical background, this gui
 * PCI-DSS Overview
 
 #### Understand GDPR:
-[GDPR Principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/)
-[Gdpr Articles](https://gdpr-info.eu/)
-[GDPR Implementation ](https://youtu.be/Pf_qQxeubIg?si=BZ8DTX8EPmb-X0FX)
-[My Notes]
+* [GDPR Principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/)
+* [Gdpr Articles](https://gdpr-info.eu/)
+* [GDPR Implementation ](https://youtu.be/Pf_qQxeubIg?si=BZ8DTX8EPmb-X0FX)
+* [GDPR Audit]
+* [My Notes]
 
 
 ### Day 43–49: Security Controls & Mapping
