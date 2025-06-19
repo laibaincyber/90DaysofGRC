@@ -105,10 +105,10 @@ Whether you're a beginner or transitioning from a technical background, this gui
 * HIPAA Compliance
 * PCI-DSS Overview
 
-# Understand GDPR:
+#### Understand GDPR:
 [GDPR Principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/)
-[Gdpr Articles] (https://gdpr-info.eu/)
-[GDPR Implementation ] (https://youtu.be/Pf_qQxeubIg?si=BZ8DTX8EPmb-X0FX)
+[Gdpr Articles](https://gdpr-info.eu/)
+[GDPR Implementation ](https://youtu.be/Pf_qQxeubIg?si=BZ8DTX8EPmb-X0FX)
 [My Notes]
 
 
