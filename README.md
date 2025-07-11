@@ -1,7 +1,7 @@
 # 90-Day GRC Cybersecurity Study Plan 
 ##  Daily Breakdown
 
-### Day 15–21: Introduction to GRC
+### Day 1-7: Introduction to GRC
 
 **Goal**: Understand what GRC is, its importance, and key roles.
 
@@ -10,7 +10,7 @@
 * Overview of frameworks [NIST](https://youtu.be/_KXqDNVmpu8?si=AUsmv7rw-G3X7XaM), [ISO](https://youtu.be/jPA6gbsT2IQ?si=AweztWmPgXPjhvOi), [HIPAA](https://youtu.be/sNry7tMXlJw?si=JmUPc6-IBYl_oNom), [PCI-DSS](https://youtu.be/jcJpVEv16pk?si=AYLoNO3MB_Q_pIxj)
 * Articles: [Evolution of GRC](https://www.independent.co.uk/news/business/business-reporter/grc-software-solutions-governance-risk-management-compliance-b2452427.html)
 
-### Day 22–28: Policies, Standards, and Procedures
+### Day 8-15: Policies, Standards, and Procedures
 
 **Goal**: Learn how to write and manage infosec policies.
 
@@ -21,7 +21,7 @@
 * Case Study: Acceptable Use Policy, Remote Access Policy
 
 
-###  Day 29–35: Risk Management Frameworks
+###  Day 16 -23: Risk Management Frameworks
 
 **Goal**: Understand risk management lifecycle and methodologies.
 
@@ -31,7 +31,7 @@
 * Risk Assessment Hands-on: Impact × Likelihood Matrix
 
 
-### Day 36–42: Governance and Compliance
+### Day 24-: Governance and Compliance
 
 **Goal**: Dive into compliance laws and data protection regulations.
 
