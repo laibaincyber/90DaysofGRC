@@ -1,70 +1,5 @@
 # 90-Day GRC Cybersecurity Study Plan 
-
-
-## Table of Contents
-
-* [📘 Introduction](#-introduction)
-* [🎯 Goals and Audience](#-goals-and-audience)
-* [🗓️ Daily Breakdown](#️-daily-breakdown)
-
-  * Day 1–7: Network+ Basics
-  * Day 8–14: Security+ Concepts
-  * Day 15–21: Introduction to GRC
-  * Day 22–28: Policy, Standards, and Procedures
-  * Day 29–35: Risk Management Frameworks (RMF)
-  * Day 36–42: Governance and Compliance (ISO, NIST, HIPAA, GDPR)
-  * Day 43–49: Security Controls and Framework Mapping
-  * Day 50–56: Security Audits & Compliance Assessments
-  * Day 57–63: Third-Party Risk Management & Supply Chain Security
-  * Day 64–70: Business Continuity and Disaster Recovery
-  * Day 71–77: Introduction to SOAR, SIEM, and GRC Tools
-  * Day 78–84: Governance Reports, Dashboards, and Risk Register
-  * Day 85–90: Mock Projects, Resume, and Job Applications
-* [🤝 Contributors](#-contributors)
-
-##  Introduction
-
-Welcome to the **90 Days of GRC Cybersecurity Challenge!**
-This roadmap is your structured path into the world of **Governance, Risk, and Compliance**
-
-Whether you're a beginner or transitioning from a technical background, this guide will help you understand risk-based security, compliance regulations, frameworks like NIST & ISO 27001, policies, audits, and GRC platforms.
-
-
-##  Goals and Audience
-
-### 📌 Goals
-
-* Build a strong foundation in Networking & Security basics.
-* Understand risk assessment, security policy creation, and audit practices.
-* Get hands-on with GRC platforms.
-* Prepare for GRC-related job interviews and roles.
-* Learn key frameworks like NIST CSF, ISO 27001, HIPAA, GDPR, and RMF.
-* Complete a capstone project and create a resume tailored to GRC.
-
-### Audience
-
-* Beginners exploring cybersecurity governance and risk.
-* Technical professionals pivoting to GRC/compliance roles.
-* Students in CS, IS, or cybersecurity programs.
-* Aspiring SOC analysts, GRC analysts, auditors, or compliance officers.
-
-
 ##  Daily Breakdown
-
-### Day 1–7: Network+ Basics
-
-**Goal**: Learn the fundamentals of networking.
-
-* [Professor Messer’s Network+ N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8)
-* [Jeremy’s IT Lab CCNA Series](https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
-
-
-### Day 8–14: Security+ Concepts
-
-**Goal**: Understand core security concepts, CIA triad, access control, and threat types.
-
-* [Professor Messer’s Security+ (SY0-701)](https://youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&si=X9wXLbv9JAcfM8gW)
-
 
 ### Day 15–21: Introduction to GRC
 
@@ -73,6 +8,7 @@ Whether you're a beginner or transitioning from a technical background, this gui
 * [What is GRC? — Governance vs. Risk vs. Compliance](https://youtu.be/mq_vSLHm4r0?si=qe-NOZlNxBmcINry)
 * [Roles in GRC ](https://sprinto.com/blog/grc-team/)
 * Overview of frameworks [NIST](https://youtu.be/_KXqDNVmpu8?si=AUsmv7rw-G3X7XaM), [ISO](https://youtu.be/jPA6gbsT2IQ?si=AweztWmPgXPjhvOi), [HIPAA](https://youtu.be/sNry7tMXlJw?si=JmUPc6-IBYl_oNom), [PCI-DSS](https://youtu.be/jcJpVEv16pk?si=AYLoNO3MB_Q_pIxj)
+* Articles: [Evolution of GRC](https://www.independent.co.uk/news/business/business-reporter/grc-software-solutions-governance-risk-management-compliance-b2452427.html)
 
 ### Day 22–28: Policies, Standards, and Procedures
 
